@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1685009630 source:c:\users\petra\onedrive\asztali gép\programok\könyv\main.cpp
+	<iostream>
+	<string>
+	"gtest_lite.h"
+	"konyv.h"
+	"sorozat.h"
+	"kmk.h"
+	"nyilvantartas.h"
+	"string.h"
+	"memtrace.h"
+
+1684859745 c:\users\petra\onedrive\asztali gép\programok\könyv\konyv.h
+	"string.h"
+	"memtrace.h"
+
+1684859823 c:\users\petra\onedrive\asztali gép\programok\könyv\sorozat.h
+	"konyv.h"
+	"string.h"
+	"memtrace.h"
+
+1681029957 c:\users\petra\onedrive\asztali gép\programok\könyv\mufajok.h
+
+1684697173 c:\users\petra\onedrive\asztali gép\programok\könyv\string.h
+	<iostream>
+	"memtrace.h"
+
+1684771527 source:c:\users\petra\onedrive\asztali gép\programok\könyv\string.cpp
+	"string.h"
+	<cstring>
+
+1684143516 source:c:\users\petra\onedrive\asztali gép\programok\könyv\konyv.cpp
+	"konyv.h"
+
+1684859823 c:\users\petra\onedrive\asztali gép\programok\könyv\kmk.h
+	"memtrace.h"
+	"string.h"
+	"konyv.h"
+	"sorozat.h"
+
+1684856836 c:\users\petra\onedrive\asztali gép\programok\könyv\nyilvantartas.h
+	<fstream>
+	<iostream>
+	"memtrace.h"
+	"string.h"
+	"konyv.h"
+	"sorozat.h"
+	"kmk.h"
+
+1681117873 source:c:\users\petra\onedrive\asztali gép\programok\könyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1681115009 c:\users\petra\onedrive\asztali gép\programok\könyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1683649476 c:\users\petra\onedrive\asztali gép\programok\könyv\fajlbeolvasas.h
+	<fstream>
+	"nyilvantartas.h"
+	"memtrace.h"
+	"konyv.h"
+	"sorozat.h"
+	"kmk.h"
+	"string.h"
+
+1684143615 source:c:\users\petra\onedrive\asztali gép\programok\könyv\sorozat.cpp
+	"sorozat.h"
+
+1683649486 source:c:\users\petra\onedrive\asztali gép\programok\könyv\fajlbeolvasas.cpp
+	"fajlbeolvasas.h"
+
+1684860226 source:c:\users\petra\onedrive\asztali gép\programok\könyv\nyilvantartas.cpp
+	"nyilvantartas.h"
+
+1684144176 source:c:\users\petra\onedrive\asztali gép\programok\könyv\kmk.cpp
+	"kmk.h"
+
+1683706725 c:\users\petra\onedrive\asztali gép\programok\könyv\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1684144176 source:c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\kmk.cpp
+	"kmk.h"
+
+1684859823 c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\kmk.h
+	"memtrace.h"
+	"string.h"
+	"konyv.h"
+	"sorozat.h"
+
+1681115009 c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1684697173 c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\string.h
+	<iostream>
+	"memtrace.h"
+
+1684859745 c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\konyv.h
+	"string.h"
+	"memtrace.h"
+
+1684859823 c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\sorozat.h
+	"konyv.h"
+	"string.h"
+	"memtrace.h"
+
+1684143516 source:c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\konyv.cpp
+	"konyv.h"
+
+1685010990 source:c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\main.cpp
+	<iostream>
+	<string>
+	"gtest_lite.h"
+	"konyv.h"
+	"sorozat.h"
+	"kmk.h"
+	"nyilvantartas.h"
+	"string.h"
+	"memtrace.h"
+
+1683706725 c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1684856836 c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\nyilvantartas.h
+	<fstream>
+	<iostream>
+	"memtrace.h"
+	"string.h"
+	"konyv.h"
+	"sorozat.h"
+	"kmk.h"
+
+1681117873 source:c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1684860226 source:c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\nyilvantartas.cpp
+	"nyilvantartas.h"
+
+1684143615 source:c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\sorozat.cpp
+	"sorozat.h"
+
+1684771527 source:c:\users\petra\onedrive\asztali gép\programok\programozás alapjai 2\nhf\könyv\string.cpp
+	"string.h"
+	<cstring>
+
